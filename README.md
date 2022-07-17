@@ -1,6 +1,6 @@
-# Frontend Mentor - Product preview card component
+# Frontend Mentor - NFT preview card component
 
-<h5 align="center">Assalam U Alaikum, well I don't like writing descriptions but Readme is fine</h5>
+<h5 align="center">Assalam U Alaikum, I have nothing to write -_-</h5>
 <hr>
 
 ## The challenge
@@ -12,54 +12,29 @@ Users should be able to:
 
 ## Snapshots
 
-![](img/screenshot-desktop.png)
-![](img/screenshot-mobile.png)
+![](img/desktop.png)
+![](img/mobile.png)
 
 ## What I learned?
 
-I already knew about how to do <strike><del>this</del></strike> but forgot about it so by researching I got to know about the <strong>strike</strong> tag it's a fallback as <strong>del</strong> isn't visible in every browser
-
-```html
-<p class="old-price">
-  <strike>
-    <del>$169.99</del>
-  </strike>
-</p>
-```
-
-but after reading my report I think it's much better to use css
+My speed is going up. Okay, so seriously image overlay hover type effect whatever it's called I learned that :/
 
 ```css
-  .old-price {
-    text-decoration: line-through;
-  }
-```
-
-This was the code that finally like damn finally worked and the mobile version was good and happy by just adding auto to center the box (already knew this too but forgot to use it) :]
-
-```css
-.box {
-  margin: 1em auto;
+ .Hero_Img {
+    width: 100%;
+    position: relative;
 }
 ```
 
-I'm damn glad to learn how to add code snippets!!! (from the template read me file)
-
-````html
-```html
-<p>Your Code</p>
-```
-````
-
 ## Useful resources
 
-[How to take a screenshot?](https://www.makeuseof.com/how-to-full-page-screenshot-chrome-firefox/) - I didn't knew how to take a webpage snapshot so yeah
+[Image hover overlay](https://www.w3schools.com/howto/howto_css_image_overlay_icon.asp) - I feel like I cheated but dude we're programmers B)
 
-[Slash through the text?](https://www.w3schools.com/cssref/pr_text_text-decoration.asp) - I also forgot how to slash (line-through) the text
+[position: relative;](https://www.tutorialspoint.com/how-to-create-image-overlay-icon-effect-on-hover-with-css) - Yeah that's how much I learned: I needed to add relative in my code
 
 ## Thoughts
 
-It was easy but still there were some places where I got stuck (centering & responsiveness) so this helped me narrow down some of my weak points and also forced me to try different ways to style things. Making mobile friendly websites are kinda difficult but I'll be glad to continue doing it
+I completed it in like 5 hours? as from previous project I got quite the hang of it. I don't know what I'm saying but yeah it caught my eye cuz of it's dark themed colors
 
 ## Author
 
