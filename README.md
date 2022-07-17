@@ -34,7 +34,7 @@ My speed is going up. Okay, so seriously image overlay hover type effect whateve
 
 ## Thoughts
 
-I completed it in like 5 hours? as from previous project I got quite the hang of it. I don't know what I'm saying but yeah it caught my eye cuz of it's dark themed colors
+I completed it in like 5 hours? as from previous project I got quite the hang of it. I don't know what I'm saying but yeah it caught my eye cuz of it's dark themed colors. Right now I'm kinda stuck at image hover thingy as it's a little taller than the image.
 
 ## Author
 
