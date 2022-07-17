@@ -43,5 +43,5 @@ I completed it in like 5 hours? as from previous project I got quite the hang of
 
 <hr>
 <div align="center">
-<a href="https://maskeydude.github.io/product-preview-card-component/" target="_blank">Preview</a>
+<a href="https://maskeydude.github.io/nft-preview-card-component/" target="_blank">Preview</a>
 </div>
