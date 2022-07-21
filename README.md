@@ -42,4 +42,4 @@ I completed it in like 5 hours? as from previous project I got quite the hang of
 - Frontend Mentor - [@MaskeyDude](https://www.frontendmentor.io/profile/MaskeyDude)
 
 <hr>
-Yallah, Assalam U Alaikum
+<h5 align="center">Yallah, Assalam U Alaikum</h5>
