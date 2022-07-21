@@ -42,6 +42,4 @@ I completed it in like 5 hours? as from previous project I got quite the hang of
 - Frontend Mentor - [@MaskeyDude](https://www.frontendmentor.io/profile/MaskeyDude)
 
 <hr>
-<div align="center">
-<a href="https://maskeydude.github.io/nft-preview-card-component/" target="_blank">Preview</a>
-</div>
+Yallah, Assalam U Alaikum
